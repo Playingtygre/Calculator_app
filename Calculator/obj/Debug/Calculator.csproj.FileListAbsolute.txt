@@ -8,3 +8,13 @@ C:\Users\Tiger Hsu\source\repos\Calculator\Calculator\obj\Debug\Calculator.cspro
 C:\Users\Tiger Hsu\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Tiger Hsu\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Tiger Hsu\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\obj\Debug\Calculator.exe
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\bin\Debug\Calculator.exe
+C:\Users\Tiger Hsu\source\repos\Calculator_app\Calculator\bin\Debug\Calculator.pdb
